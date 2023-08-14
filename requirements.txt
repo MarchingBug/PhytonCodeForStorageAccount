@@ -1,0 +1,8 @@
+requests
+jsons
+azure-identity
+azure-storage-blob
+azure-core
+python-dotenv
+numpy==1.24.3
+azure.keyvault
